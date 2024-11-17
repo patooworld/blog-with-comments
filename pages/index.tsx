@@ -3,25 +3,10 @@ import Image from "next/image";
 
 function HomePage() {
   return (
-    <>
-      <Container>
-        <div className="space-y-6">
-          <h1 className="text-2xl font-bold">
-            Hey, I'm a Senior Software Engineer at Company. I enjoy working with
-            Next.js and crafting beautiful front-end experiences.
-          </h1>
-          <p>
-            This portfolio is built with Next.js and a library called next-mdx.
-            It allows you to write Markdown and focus on the content of your
-            portfolio.
-          </p>
-
-        <script async src="https://cse.google.com/cse.js?cx=b25bfdb1d1f084216">
+<script async src="https://cse.google.com/cse.js?cx=b25bfdb1d1f084216">
 </script>
 <div class="gcse-search"></div>
-      </Container>
-
-      <div className="container max-w-4xl m-auto px-4 mt-20">
+<div className="container max-w-4xl m-auto px-4 mt-20">
         <Image
           src="/desk.jpg"
           alt="my desk"
