@@ -16,8 +16,9 @@ function HomePage() {
             portfolio.
           </p>
 
-          <p>Deploy your own in a few minutes.</p>
-        </div>
+        <script async src="https://cse.google.com/cse.js?cx=b25bfdb1d1f084216">
+</script>
+<div class="gcse-search"></div>
       </Container>
 
       <div className="container max-w-4xl m-auto px-4 mt-20">
